@@ -1,2 +1,2 @@
-# hello-world
-My dad is dumb
+# hello-Community
+Clicker game in progress
