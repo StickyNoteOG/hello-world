@@ -1,0 +1,10 @@
+cd documents/any file
+git add .
+git status
+git commit -m "Chicken wing"
+git push
+ls 
+"ls stands for list"
+cd "any one of them"
+then pick its option
+the git add .
